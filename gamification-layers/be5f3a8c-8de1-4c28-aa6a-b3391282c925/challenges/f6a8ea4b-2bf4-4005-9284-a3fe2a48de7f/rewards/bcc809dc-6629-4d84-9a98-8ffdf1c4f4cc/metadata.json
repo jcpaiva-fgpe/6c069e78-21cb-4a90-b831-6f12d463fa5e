@@ -1,0 +1,1 @@
+{"id":"bcc809dc-6629-4d84-9a98-8ffdf1c4f4cc","name":"MorningStar","description":"","kind":"BADGE","amount":0,"revealables":[],"unlockables":[],"congratulations":[],"hints":[],"criteria":{"conditions":[{"order":0,"left_entity":"ENVIRONMENT","left_property":"$.submissions.length","comparing_function":"LESS_OR_EQUAL","right_entity":"FIXED","right_property":"1"}],"junctors":["AND"]}}
