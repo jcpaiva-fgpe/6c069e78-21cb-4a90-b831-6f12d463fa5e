@@ -1,0 +1,1 @@
+{"id":"17858761-4ffd-4cd9-9071-61b245065c00","name":"Persistent","description":"","kind":"BADGE","amount":0,"revealables":[],"unlockables":[],"congratulations":[],"hints":[],"criteria":{"conditions":[{"order":0,"left_entity":"PLAYER","left_property":"$.submissions.length","comparing_function":"GREATER_THAN","right_entity":"FIXED","right_property":"5"}],"junctors":["AND"]}}
