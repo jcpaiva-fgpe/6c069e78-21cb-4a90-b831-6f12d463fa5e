@@ -1,0 +1,1 @@
+{"id":"edb8e4eb-6cea-4cd6-b588-d5668ba3cb26","name":"Brilliant","description":"","kind":"BADGE","amount":0,"revealables":[],"unlockables":[],"congratulations":[],"hints":[],"criteria":{"conditions":[{"order":0,"left_entity":"PLAYER","left_property":"$.solved","comparing_function":"GREAT_OR_EQUAL","right_entity":"FIXED","right_property":"4"}],"junctors":["AND"]}}
